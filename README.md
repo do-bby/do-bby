@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-### 🌻My Github🌻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div align=center><h1>🌻My Github🌻</h1></div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-bby&show_icons=true&theme=transparent)
