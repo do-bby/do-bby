@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+💻Tech Stack💻
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <!--
 **do-bby/do-bby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdo-bby&count_bg=%23FFFFFF&title_bg=%23DC0404&icon=html5.svg&icon_color=%23FFFFFF&title=HTML&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-bby)](https://github.com/anuraghazra/github-readme-stats)
 
