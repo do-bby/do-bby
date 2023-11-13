@@ -48,4 +48,3 @@ Here are some ideas to get you started:
 <div align=center><h1>🌻My Github🌻</h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-bby&show_icons=false&theme=light&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-bby&hide_progress=true)
